@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    pading: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+ background-color:  rgb(209, 197, 156);
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ line-height: 1.6; 
+}
+
+ cabeçalho{
+    width: 80%;
+    margin: 0 auto;
+
+ }
+
+header {
+    background-color: rgb(109, 90, 64);
+    color: rgb(7, 6, 4);
+    padding: 10px 0;
+}
